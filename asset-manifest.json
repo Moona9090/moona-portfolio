@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/moona-portfolio/static/css/main.5c37989a.css",
+    "main.js": "/moona-portfolio/static/js/main.6adb8bcb.js",
+    "static/js/787.59ac5e15.chunk.js": "/moona-portfolio/static/js/787.59ac5e15.chunk.js",
+    "static/media/home logo .jpg": "/moona-portfolio/static/media/home logo .ecd77ce910ab1d29e850.jpg",
+    "static/media/pro-img3.png": "/moona-portfolio/static/media/pro-img3.d93081eb6bf6a1716f7c.png",
+    "static/media/pro-img1.png": "/moona-portfolio/static/media/pro-img1.207cc5bc8c5074eab3b9.png",
+    "static/media/pro-img2.jpg": "/moona-portfolio/static/media/pro-img2.c95d836854bee6e0b8d4.jpg",
+    "static/media/half-moon.png": "/moona-portfolio/static/media/half-moon.cbdf72f3f3a12423cf29.png",
+    "static/media/customer-service.png": "/moona-portfolio/static/media/customer-service.e842e96da93840e2f278.png",
+    "static/media/revicons.eot": "/moona-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/moona-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/moona-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/icons8-instagram.svg": "/moona-portfolio/static/media/icons8-instagram.a63f6f6087c85ce893fa8613bec4ee1e.svg",
+    "static/media/icons8-linkedin.svg": "/moona-portfolio/static/media/icons8-linkedin.5df5fbff5d3bf7e3e8939d541fe5a54e.svg",
+    "index.html": "/moona-portfolio/index.html",
+    "static/media/icons8-facebook.svg": "/moona-portfolio/static/media/icons8-facebook.d06d2455b16f02981b481b4c6fc3098f.svg",
+    "main.5c37989a.css.map": "/moona-portfolio/static/css/main.5c37989a.css.map",
+    "main.6adb8bcb.js.map": "/moona-portfolio/static/js/main.6adb8bcb.js.map",
+    "787.59ac5e15.chunk.js.map": "/moona-portfolio/static/js/787.59ac5e15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c37989a.css",
+    "static/js/main.6adb8bcb.js"
+  ]
+}
