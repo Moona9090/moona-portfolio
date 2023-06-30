@@ -18,7 +18,7 @@ function Home (){
                 <Row className='align-items-center'>
                     <Col xs={12} md={6} xl={7}>
                      <h2 className='home-title'>Welcome eveyone to my portfolio</h2>
-                     <h1 className='home-des'>Hi everyone i'm Amany Gamil Saber .<span>{text}</span><Cursor/></h1>
+                     <h1 className='home-des display-1'>Hi everyone i'm Amany Gamil Saber ...<span>{text}</span><Cursor/></h1>
                      <p className='home-con'>Hi everyone this is my portfolio i'm front-end and looking to join a team .</p>
                      <HashLink to="#contact"><button className='home-but'>let's contect <FaArrowCircleRight/></button></HashLink>
                     </Col>

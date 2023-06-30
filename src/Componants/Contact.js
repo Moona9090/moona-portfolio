@@ -8,7 +8,7 @@ function Contact (){
             <Container>
                 <Row>
                     <Col md={6}>
-                         <img src={contact}/>
+                         <img src={contact} width="100%"/>
                     </Col>
                     <Col md={6}>
                          <h2>Get in tuch with me</h2>

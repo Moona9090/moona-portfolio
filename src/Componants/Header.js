@@ -34,13 +34,9 @@ function Header() {
     <Navbar expand="lg" className={scrolled ? "scrolled" : ""}>
       <Container  className=' '>
         <Navbar.Brand className='head-logo' href="#"><img src={headLogo} width="100" height="75" alt="logo"/> MOONA</Navbar.Brand>
-        <Navbar.Toggle aria-controls="navbarScroll" className='headr-Toggle' />
-        <Navbar.Collapse id="navbarScroll">
-          <Nav
-            className="ms-auto my-2 my-lg-0 "
-            style={{ maxHeight: '350px' }}
-            navbarScroll
-          >
+        <Navbar.Toggle aria-controls="basic-navbar-nav" className='headr-Toggle' />
+        <Navbar.Collapse id="basic-navbar-nav">
+          <Nav className="ms-auto ">
             <HashLink  className={ activeLink ==="Home" ? "active navbar-link" : "navbar-link"} onClick={()=> onUpdateActiveLink("Home")} to="#home">Home</HashLink>
             <HashLink  className={ activeLink ==="Skills" ? "active navbar-link" : "navbar-link"} onClick={()=> onUpdateActiveLink("Skills")} to="#Skills">Skills</HashLink>
             <HashLink  className={ activeLink ==="Projects" ? "active navbar-link" : "navbar-link"} onClick={()=> onUpdateActiveLink("Projects")} to="#projects">projects</HashLink>

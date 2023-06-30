@@ -3,7 +3,7 @@ import { Row ,Col} from 'react-bootstrap';
 function Letter (){
     return(
         <Col lg={12}>
-            <div className="letter-box ">
+            <div className="letter-box  d-flex flex-wrap align-content-center justify-content-center">
                 <Row>
                     <Col lg={12} md={6} xl={5}>
                         <h3>See my projects at once & leave your email adrees</h3>

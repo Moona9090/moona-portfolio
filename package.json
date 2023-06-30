@@ -2,7 +2,7 @@
   "name": "moonareact",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Moona9090.github.io/moona-portfolio",
+  "homepage": "https://Moona9090.github.io/moona-react",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
